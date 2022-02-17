@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendmortal07&layout=compact)]
 
-[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendmortal07)]
+[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendmortal07&theme=algolia)]
