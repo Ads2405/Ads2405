@@ -1,5 +1,7 @@
 # **I am Anmol Deshratna Saxena**
 
+<img src="Name gif.gif" width="900" height="420" align="center">
+
 ```
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning Cloud Computing
