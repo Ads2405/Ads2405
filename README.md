@@ -4,7 +4,7 @@
 
 ```
 - 🔭 I’m currently working on Web development
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 A Cloud Enthusiast
 - ⚡ Fun fact: I am a district level Footballer too 😄
 ```
 ### Connect with me here ⬇️
