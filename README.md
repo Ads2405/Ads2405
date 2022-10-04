@@ -5,7 +5,7 @@
 ```
 - 🔭 I’m currently working on Web development
 - 🌱 A Cloud Enthusiast
-- ⚡ Fun fact: I am a district level Footballer too 😄
+- ⚡ Fun fact: I am a state level Footballer too 😄
 ```
 ### Connect with me here ⬇️
 
