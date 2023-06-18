@@ -3,8 +3,8 @@
 <img src="Name gif.gif" width="900" height="420" align="center">
 
 ```
-- 🔭 I’m currently working on Web development
-- 🌱 A Cloud Enthusiast
+- 🔭 A Web Developer
+- 🌱 A Data Science and AI Enthusiast
 - ⚡ Fun fact: I am a state level Footballer too 😄
 ```
 ### Connect with me here ⬇️
