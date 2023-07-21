@@ -31,7 +31,7 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="firebase"/> </a>
 <h4> Note: This widget shows language I have used the most in repositories. Not the ones I am proficient in.</h4>
   
-![Top Langs](https://[github-readme-stats.vercel.app/api/top-langs/?username=legendmortal07&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=legendmortal07&layout=compact))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendmortal07&layout=compact)
 <br>
 <br>
 <!-- ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendmortal07&show_icons=true&theme=radical) --!>
