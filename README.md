@@ -34,4 +34,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legendmortal07&layout=compact)
 <br>
 <br>
-<!-- ![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=legendmortal07&show_icons=true&theme=radical) --!>
+![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ads2405&show_icons=true&theme=radical) 
